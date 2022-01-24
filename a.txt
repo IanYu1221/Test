@@ -1,3 +1,5 @@
 hhhhhhhhhhhhhhhhhhaaaaaaaaaaaaaaaaaaa
 
 changeA
+
+conflict A
